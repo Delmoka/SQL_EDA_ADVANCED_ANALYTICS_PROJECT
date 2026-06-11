@@ -8,8 +8,8 @@ The project follows a structured analytics framework commonly used by Business I
 
 
 THE PROJECT CONTAINS 2 PHASES 
-Phase 1: Exploratory Data Analysis (EDA)
 
+Phase 1: Exploratory Data Analysis (EDA)
 Phase 2: Advanced Analytics
 
 
